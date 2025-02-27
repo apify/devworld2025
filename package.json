@@ -1,0 +1,22 @@
+{
+    "name": "how-to-get-clean-web-data-for-chatbots-and-llms",
+    "version": "0.0.1",
+    "description": "This is a conference talk companion repo.",
+    "type": "module",
+    "dependencies": {
+        "@langchain/community": "^0.3.32",
+        "@langchain/core": "^0.3.40",
+        "@langchain/openai": "^0.4.4",
+        "@langchain/textsplitters": "^0.1.0",
+        "@mozilla/readability": "^0.5.0",
+        "apify": "^3.3.2",
+        "crawlee": "^3.12.2",
+        "d3-dsv": "^2.0.0",
+        "jsdom": "^26.0.0",
+        "langchain": "^0.3.19",
+        "playwright": "^1.50.1",
+        "turndown": "^7.2.0"
+    },
+    "author": "František Nesveda",
+    "license": "ISC"
+}
